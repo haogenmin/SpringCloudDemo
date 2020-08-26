@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer" />
+        <module name="zuul" />
+        <module name="eureka_02" />
+        <module name="hystrix_dashboard" />
+        <module name="provider_01" />
+        <module name="eureka_01" />
+        <module name="zuul_copy" />
+        <module name="model" />
+        <module name="provider_02" />
+        <module name="config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="eureka_01" target="1.8" />
+      <module name="eureka_02" target="1.8" />
+      <module name="hystrix_dashboard" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="provider_01" target="1.8" />
+      <module name="provider_02" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul_copy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="eureka_01" options="-parameters" />
+      <module name="eureka_02" options="-parameters" />
+      <module name="hystrix_dashboard" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="provider_01" options="-parameters" />
+      <module name="provider_02" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+      <module name="zuul_copy" options="-parameters" />
+    </option>
+  </component>
+</project>

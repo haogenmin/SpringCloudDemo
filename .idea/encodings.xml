@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/eureka_01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/eureka_02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/provider_01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/provider_02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/zuul_copy" charset="UTF-8" />
+  </component>
+</project>

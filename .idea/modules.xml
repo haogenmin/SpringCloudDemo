@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent/config/config.iml" filepath="$PROJECT_DIR$/parent/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/consumer/consumer.iml" filepath="$PROJECT_DIR$/parent/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/eureka_01/eureka_01.iml" filepath="$PROJECT_DIR$/parent/eureka_01/eureka_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/eureka_02/eureka_02.iml" filepath="$PROJECT_DIR$/parent/eureka_02/eureka_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/hystrix_dashboard/hystrix_dashboard.iml" filepath="$PROJECT_DIR$/parent/hystrix_dashboard/hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/model/model.iml" filepath="$PROJECT_DIR$/parent/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/provider_01/provider_01.iml" filepath="$PROJECT_DIR$/parent/provider_01/provider_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/provider_02/provider_02.iml" filepath="$PROJECT_DIR$/parent/provider_02/provider_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/zuul/zuul.iml" filepath="$PROJECT_DIR$/parent/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/zuul_copy/zuul_copy.iml" filepath="$PROJECT_DIR$/parent/zuul_copy/zuul_copy.iml" />
+    </modules>
+  </component>
+</project>
